@@ -1,0 +1,32 @@
+html {
+  font-size: 100%;
+  font-family: "Roboto Mono", monospace;
+  color: antiquewhite;
+  background-color: blue;
+}
+
+#container {
+  width: 75%;
+  background: blue;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-content: center;
+}
+
+#survey-form {
+  background: rgba(0, 0, 139, 0.9);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.description {
+  font-style: italic;
+  font-weight: 200;
+}
