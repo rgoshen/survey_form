@@ -1,5 +1,5 @@
 # survey_form
-This is my first survey website page.
+This is my first survey website page.  It uses HTML and CSS.
 
 User Story #1: I can see a title with id="title" in H1 sized text.
 
